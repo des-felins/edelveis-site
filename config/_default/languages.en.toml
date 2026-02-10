@@ -2,22 +2,22 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Home"
+title = "edelveis.dev"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-#  logo = "img/logo.png"
+ # logo = "logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+description = "Java Developer Advocate. Tutorials, talks, and cyberpunk-flavored demos."
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
    name = "Catherine Edelveis"
    email = "catherine@edelveis.dev"
-   image = "img/cat.jpg"
+   image = "cat.jpg"
    imageQuality = 96
    headline = "Your friendly Java advocate: practical content, playful demos, serious wins."
 #   bio = "Developer Advocate at BellSoft, tech writer, speaker, Java dev"

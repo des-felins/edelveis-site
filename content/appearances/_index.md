@@ -1,5 +1,0 @@
----
-title: "Appearances"
----
-
-My talks.
