@@ -1,5 +1,6 @@
 ---
 title: "Videos"
+hideNoArticles: true
 ---
 
 Recordings, podcasts, and other video links.
@@ -31,3 +32,13 @@ and do livestreams with pros who drive the Java ecosystem forward.
   background-color: #3A1D4B;
 }
 </style>
+
+Below are some of my appearances in the virtual space not related to CyberJAR.
+
+{{< youtube id="IxCfpxxS88w" title="When Spring met FX" >}}
+<br/>
+{{< youtube id="q5c4XT4s1P8" title="Securing Spring" >}}
+<br/>
+{{< youtube id="Sm_g7jK7EUk" title="Catherine Edelveis on a Bootiful Podcast" >}}
+<br/>
+{{< youtube id="W6alVaHlkzY" title="Optimizing Buildpacks" >}}
