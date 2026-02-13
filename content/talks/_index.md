@@ -1,5 +1,6 @@
 ---
 title: "Talks"
+groupByYear: false
 ---
 
 I enjoy sharing knowledge and connecting with the community through talks, webinars, and podcasts.
