@@ -1,5 +1,5 @@
 ---
-title: "The 45-Minute Path to Bullet-Proof Java Container Images - shrink, pin, scan, sign"
+title: "Mission Possible: The 45-Minute Path to Bullet-Proof Java Container Images"
 date: 2026-01-10
 tags: ["Java", "Security"]
 featureimage: "talks/hardened-cover.jpg"
@@ -8,7 +8,7 @@ featureimage: "talks/hardened-cover.jpg"
 
 ## Summary
 
-Your mission is to turn a bloated CVE-infested container image into a bullet-proof low-noise image with low vulnerability exposure and clear operational posture. You have 45 minutes before the explosive attack hits. Mission possible!
+Your mission is to turn a bloated CVE-infested container image into a low-noise image with low vulnerability exposure and clear operational posture. You have 45 minutes before the explosive attack hits. Mission possible!
 This session provides a straight path towards building more secure and maintainable Java container images. We will identify the key culprits such as stale dependencies, outdated base, lack of provenance, and excessive privileges. 
 Then, we will draft a step-by-step plan to:
 - Pick a minimal and well-maintained base image,
