@@ -35,6 +35,8 @@ and do livestreams with pros who drive the Java ecosystem forward.
 
 Below are some of my appearances in the virtual space not related to CyberJAR.
 
+
+
 {{< youtube id="Sqmx9eikIiI" title="Container security survey" >}}
 <br/>
 {{< youtube id="IxCfpxxS88w" title="When Spring met FX" >}}

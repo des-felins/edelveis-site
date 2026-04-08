@@ -26,5 +26,4 @@ In the makings :)
 ### Recordings
 No recordings available yet.
 ### Upcoming Events
-- Almaty JUG, 17 March 2026
 - JCON EUROPE 2026, 22 April 2026
