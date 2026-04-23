@@ -15,15 +15,15 @@ Then, we will draft a step-by-step plan to:
 - Shrink privileges,
 - Prove provenance with version pinning, signatures and SBOMs,
 - Scan and classify with CVSS rules to cut noise and fix what’s exploitable,
-- Automatically monitor for updates with Dependabot/Renovate.
+- Automatically monitor for updates.
 
 Expect a before/after scan comparison, copy-and-paste Dockerfile instructions, verification checklist, and a clear and reproducible path towards hardened Java container images that provide an impenetrable lock-box for your applications.
 
 
 ## Useful Links
 ### Slides
-In the makings :)
+https://speakerdeck.com/cat_edelveis/mission-possible-the-45-minute-path-to-bullet-proof-java-container-images
 ### Recordings
 No recordings available yet.
 ### Upcoming Events
-- JCON EUROPE 2026, 22 April 2026
+No upcoming events.
