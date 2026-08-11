@@ -24,6 +24,6 @@ Expect a before/after scan comparison, copy-and-paste Dockerfile instructions, v
 ### Slides
 https://speakerdeck.com/cat_edelveis/mission-possible-the-45-minute-path-to-bullet-proof-java-container-images
 ### Recordings
-No recordings available yet.
+{{< youtube id="1w4eRtPHMQM" title="Hardened images jcon europe" >}}
 ### Upcoming Events
 No upcoming events.
