@@ -36,6 +36,10 @@ and do livestreams with pros who drive the Java ecosystem forward.
 Below are some of my appearances in the virtual space not related to CyberJAR.
 
 
+{{< youtube id="xqbMKNL40Vk" title="Hardened Buildpacks & Trusted Artifacts" >}}
+<br/>
+{{< youtube id="XBKZ8vDtoYU" title="Bootiful Podcast with Josh Long" >}}
+<br/>
 {{< youtube id="ER2eeAVcuDQ" title="Spring, Quarkus, and Friends" >}}
 <br/>
 {{< youtube id="9Zfo_HAQOk0" title="Secure by Design: Hardened Images" >}}
